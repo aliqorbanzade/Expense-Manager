@@ -12,7 +12,7 @@ import { Provider } from 'react-redux';
 
 const store = configureStore();
 
-
+console.log('app.jss');
 
 const jsx = (
     <Provider store={store}>
