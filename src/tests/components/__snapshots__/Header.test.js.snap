@@ -5,7 +5,6 @@ exports[`shoul render header correctly  1`] = `
   <h1>
     Expensify
   </h1>
-  asas
   <NavLink
     activeClassName="is-active"
     ariaCurrent="true"
